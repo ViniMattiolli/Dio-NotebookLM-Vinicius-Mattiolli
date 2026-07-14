@@ -166,3 +166,7 @@ Além disso, foi possível desenvolver habilidades relacionadas à:
 **Vinicius Mattiolli**
 
 Projeto desenvolvido para o desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+
+<img width="1905" height="936" alt="image" src="https://github.com/user-attachments/assets/2fa85710-1c69-4f38-b02a-ad36db59b416" />
+
+
